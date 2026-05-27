@@ -1,0 +1,10 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "chat.tools.terminal.autoApprove": {
+        "/^Set-Location \"d:/shengteng/shouyu\\(xin\\)\"; git init; git add -A; git commit -m \"orangepi: optimize realtime inference \\(grab/retrieve, MJPG\\), add no_display/no_flip, bench and label-check tools, update deploy scripts and README\"; git --no-pager show --name-only --pretty=format:\"%h %s\" -1$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
